@@ -1,3 +1,4 @@
+o programado bessa alterou esse arquivo hoje 
 resolvendo conflitos
 
 lembrei de um comando 
